@@ -1,3 +1,4 @@
 #apples
 #bananas
-#mango
+#mangoes
+#strawberries
